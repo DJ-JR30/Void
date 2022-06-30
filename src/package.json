@@ -1,8 +1,8 @@
 {
-  "name": "mainnsfpants",
+  "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./main/index.js",
   "dependencies": {
     "ascii-table": "0.0.9",
     "cheerio": "^1.0.0-rc.3",
